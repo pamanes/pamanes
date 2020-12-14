@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ������‍��� Weekly Development breakdown
+### 👨🏽‍💻 Weekly Development breakdown
 <!--START_SECTION:waka-->
 ```text
 SQL          2 hrs 45 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   56.78 % 

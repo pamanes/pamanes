@@ -1,5 +1,5 @@
 ### Hi there ğŸ‘‹
-í±¨í¿½â€í²» Weekly Development breakdown
+### í±¨í¿½â€í²» Weekly Development breakdown
 <!--START_SECTION:waka-->
 ```text
 SQL          2 hrs 45 mins   â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£¿â£„â£€â£€â£€â£€â£€â£€â£€â£€â£€â£€   56.78 % 

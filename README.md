@@ -2,8 +2,7 @@
 ### 👨🏽‍💻 Weekly Development breakdown
 <!--START_SECTION:waka-->
 ```text
-SQL   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.12 % 
-C#    1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.88 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

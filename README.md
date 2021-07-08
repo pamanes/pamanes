@@ -2,7 +2,8 @@
 ### 👨🏽‍💻 Weekly Development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other    10 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.87 % 
+CSHTML   2 mins          ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.13 % 
 ```
 <!--END_SECTION:waka-->
 

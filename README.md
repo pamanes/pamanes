@@ -1,15 +1,15 @@
 ### Hi there 👋
 <!--
+
+-->
+<!--
+**pamanes/pamanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 👨🏽‍💻 Weekly Development breakdown
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
--->
-<!--
-**pamanes/pamanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
